@@ -2,4 +2,4 @@ def sum(a,b):
     return a+b
 
 output=sum(10,20)
-print(output)
+print("Sum of two numbers is :",output)
